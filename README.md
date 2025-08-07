@@ -1,5 +1,5 @@
-# Recruitment-Analysis
-## 📁 Recruitment Analysis – Data-Driven Insights for Smarter Recruitment Decisions
+# Hiring-Analysis
+## 📁 Hiring Analysis – Data-Driven Insights for Smarter Recruitment Decisions
 
 ### 📌 Overview
 
