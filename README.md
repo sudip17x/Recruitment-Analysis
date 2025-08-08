@@ -95,17 +95,3 @@ This project focuses on analyzing a multinational company's hiring data using **
 * Add predictive modeling for attrition or post-hire success rate
 
 
-### 📎 Folder Structure Suggestion for GitHub
-
-```
-📁 Hiring-Analysis
-├── 📊 Dataset.xlsx
-├── 📄 Hiring_Insights_Report.pdf
-├── 📈 Visualizations/
-│   ├── gender_distribution.png
-│   ├── salary_histogram.png
-│   └── department_hires.png
-├── 📋 README.md (this file)
-├── 📂 Documentation/
-│   └── project_summary.docx
-
