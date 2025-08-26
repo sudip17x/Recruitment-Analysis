@@ -1,7 +1,7 @@
 # Hiring-Analysis
 ## 📁 Hiring Analysis – Data-Driven Insights for Smarter Recruitment Decisions
 
-![image alt]([https://github.com/sudip17x/Amazon_Sales_Analysis_using_python/blob/ab849d1ffe3635a3f2dfbe4f97d120bbd5def696/Amazon%20Sales%20Dashboard%20Image.jpg](https://github.com/sudip17x/Hiring-Analysis/blob/61686176b11f10c67c7c840e234f1caf0b8ece4e/Hiring%20analysis%20dashboard%20image.jpg))
+![image alt](https://github.com/sudip17x/Hiring-Analysis/blob/b123bb74b2dbdffadc0f81e4f809c75d941f2902/Hiring%20analysis%20dashboard%20image.jpg)
 
 ### 📌 Overview
 
